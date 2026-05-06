@@ -2,6 +2,14 @@
 
 Catalog of Claude Skills I like, with one index row per skill and one note file per skill.
 
+## Intake flow
+
+1. Read the user paste for: skill name, official URL, source/repo URL, what it does, when to use it, and trigger phrases.
+2. If a field is missing, infer it only when the text makes it obvious.
+3. If a missing field blocks a correct catalog row, ask one question.
+4. Update the index row and the detailed note together.
+5. Report back with what was written and what was inferred.
+
 ## Index
 
 | Skill | What it does | When to use | Official URL | Note file |
