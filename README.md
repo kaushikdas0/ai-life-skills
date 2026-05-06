@@ -14,7 +14,7 @@ Catalog of Claude Skills I like, with one index row per skill and one note file 
 
 | Skill | What it does | When to use | Official URL | Note file |
 |---|---|---|---|---|
-| *(add skill)* |  |  |  | `skills/<skill-name>.md` |
+| ui-ux-pro-max-skill | Design-intelligence skill for professional UI/UX and design-system generation across multiple platforms. | UI design, landing pages, design systems, frontend styling decisions. | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill | `skills/ui-ux-pro-max-skill.md` |
 
 ## Conventions
 
