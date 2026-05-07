@@ -1,5 +1,12 @@
 # AI Life Skills
 
+![AI Life Skills banner](assets/ai-life-skills-header.png)
+
+![Featured](https://img.shields.io/badge/Featured-0f172a?style=for-the-badge)
+![Design](https://img.shields.io/badge/Design-8b5cf6?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Tech-0ea5e9?style=for-the-badge)
+![Other](https://img.shields.io/badge/Other-64748b?style=for-the-badge)
+
 Catalog of Claude Skills I like, organized by category.
 
 ## Intake flow
@@ -10,22 +17,22 @@ Catalog of Claude Skills I like, organized by category.
 4. Update the index row and the detailed note together.
 5. Report back with what was written and what was inferred.
 
-## Featured
+## ✨ Featured
 
 _None yet._
 
-## Design
+## 🎨 Design
 
 | Skill | What it does | When to use | Official URL | Note file |
 |---|---|---|---|---|
 | ui-ux-pro-max-skill | Design-intelligence skill for professional UI/UX and design-system generation across multiple platforms. | UI design, landing pages, design systems, frontend styling decisions. | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill | `skills/ui-ux-pro-max-skill.md` |
 | impeccable-style | Frontend design-intelligence skill with 23 commands, live mode, and design-system guidance. | UI styling, design systems, audits, optimization, and page-specific design prompts. | https://impeccable.style/ | `skills/impeccable-style.md` |
 
-## Tech
+## 🛠️ Tech
 
 _None yet._
 
-## Other
+## 🧩 Other
 
 _None yet._
 
