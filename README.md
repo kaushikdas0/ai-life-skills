@@ -33,6 +33,7 @@ _None yet._
 | Skill | What it does | When to use | Official URL | Note file |
 |---|---|---|---|---|
 | context-mode | MCP server for keeping large tool output out of context and preserving session continuity. | Large logs/JSON, long agent sessions, context blowups, multi-tool coding workflows. | https://context-mode.com/ | `skills/context-mode.md` |
+| claude-mem | Claude Code plugin for persistent memory across sessions and context retrieval. | Cross-session memory, project history, and keeping prior work available. | https://docs.claude-mem.ai/ | `skills/claude-mem.md` |
 
 ## 🧩 Other
 
