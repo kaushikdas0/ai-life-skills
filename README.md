@@ -30,7 +30,9 @@ _None yet._
 
 ## 🛠️ Tech
 
-_None yet._
+| Skill | What it does | When to use | Official URL | Note file |
+|---|---|---|---|---|
+| context-mode | MCP server for keeping large tool output out of context and preserving session continuity. | Large logs/JSON, long agent sessions, context blowups, multi-tool coding workflows. | https://context-mode.com/ | `skills/context-mode.md` |
 
 ## 🧩 Other
 
