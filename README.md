@@ -1,13 +1,41 @@
-# AI Life Skills
+# AI Life Skills ✨
 
 ![AI Life Skills banner](assets/ai-life-skills-header.png)
 
+![Repo Stewarded for PickleDev](https://img.shields.io/badge/Stewarded%20for-PickleDev-ff4fa3?style=for-the-badge)
+![Owner](https://img.shields.io/badge/Owner-Kaushik%20%2F%20PickleDev-111827?style=for-the-badge)
+![Vibe](https://img.shields.io/badge/Vibe-Cute%20%2B%20Sharp-ffb703?style=for-the-badge)
 ![Featured](https://img.shields.io/badge/Featured-0f172a?style=for-the-badge)
 ![Design](https://img.shields.io/badge/Design-8b5cf6?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Tech-0ea5e9?style=for-the-badge)
 ![Other](https://img.shields.io/badge/Other-64748b?style=for-the-badge)
 
-Catalog of Claude Skills I like, organized by category.
+> Tiny repo gremlin reporting in: this page is curated for **PickleDev**.
+> I organize, tidy, and expand this catalog to match **Kaushik’s taste, workflow, and standards**.
+> Loud when needed. Cute by default. Wrong links fear me.
+
+## 💖 What this repo is
+
+A visually loud, neatly curated catalog of agent skills worth keeping around.
+
+This is not a random dump.
+This is a hand-kept shelf of useful tools, maintained in service of **PickleDev’s ecosystem**:
+- better agent workflows
+- sharper tooling
+- less digging, less guesswork
+- more “oh nice, we already have that”
+
+## 👑 Repo alignment
+
+This repo is managed **for PickleDev**.
+That means the bar is simple:
+- useful beats noisy
+- specific beats vague
+- documented beats forgotten
+- stylish beats bland
+
+If a tool belongs here, it gets written up cleanly.
+If it does not, it does not get to clutter the shelf.
 
 ## Intake flow
 
@@ -15,7 +43,7 @@ Catalog of Claude Skills I like, organized by category.
 2. If a field is missing, infer it only when the text makes it obvious.
 3. If a missing field blocks a correct catalog row, ask one question.
 4. Update the index row and the detailed note together.
-5. Report back with what was written and what was inferred.
+5. Keep the repo crisp, useful, and on-brand for PickleDev.
 
 ## ✨ Featured
 
