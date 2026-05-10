@@ -35,6 +35,7 @@ _None yet._
 | context-mode | MCP server for keeping large tool output out of context and preserving session continuity. | Large logs/JSON, long agent sessions, context blowups, multi-tool coding workflows. | https://context-mode.com/ | `skills/context-mode.md` |
 | claude-mem | Claude Code plugin for persistent memory across sessions and context retrieval. | Cross-session memory, project history, and keeping prior work available. | https://docs.claude-mem.ai/ | `skills/claude-mem.md` |
 | here-now | Instant web hosting and file storage for agents; publishes static sites to live URLs and stores private files in Drive. | Publishing websites, prototypes, docs, dashboards, static assets, or agent files that need a URL. | https://here.now/ | `skills/here-now.md` |
+| printing-press | Agent-native CLI factory/library that generates Go CLIs, Claude Code skills, and MCP servers from APIs or websites. | Building custom CLIs, finding reusable community CLIs, or turning an API/website into a token-efficient agent tool. | https://printingpress.dev/ | `skills/printing-press.md` |
 
 ## 🧩 Other
 
