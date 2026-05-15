@@ -74,6 +74,7 @@ _None yet._
 |---|---|---|---|---|
 | ui-ux-pro-max-skill | Design-intelligence skill for professional UI/UX and design-system generation across multiple platforms. | UI design, landing pages, design systems, frontend styling decisions. | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill | `skills/ui-ux-pro-max-skill.md` |
 | impeccable-style | Frontend design-intelligence skill with 23 commands, live mode, and design-system guidance. | UI styling, design systems, audits, optimization, and page-specific design prompts. | https://impeccable.style/ | `skills/impeccable-style.md` |
+| excalidraw | Open-source virtual whiteboard for hand-drawn style diagrams, wireframes, and flowcharts with real-time collaboration. | Sketching diagrams, collaborative whiteboarding, visual prototyping, quick wireframes. | https://excalidraw.com/ | `skills/excalidraw.md` |
 
 ## 🛠️ Tech toys
 
