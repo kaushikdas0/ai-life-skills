@@ -57,6 +57,7 @@ If it does not, it does not get to clutter the shelf.
 ## 🧃 Intake ritual
 
 1. Read the user paste for: skill name, official URL, source/repo URL, what it does, when to use it, and trigger phrases.
+   - If the skill/tool has a public git repo, prefer recording that repo URL too so install paths, packaged skill locations, and source layout are easier to find later.
 2. If a field is missing, infer it only when the text makes it obvious.
 3. If a missing field blocks a correct catalog row, ask one question.
 4. Update the index row and the detailed note together.
@@ -73,7 +74,7 @@ _None yet._
 | Skill | What it does | When to use | Official URL | Note file |
 |---|---|---|---|---|
 | ui-ux-pro-max-skill | Design-intelligence skill for professional UI/UX and design-system generation across multiple platforms. | UI design, landing pages, design systems, frontend styling decisions. | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill | `skills/ui-ux-pro-max-skill.md` |
-| impeccable-style | Frontend design-intelligence skill with 23 commands, live mode, and design-system guidance. | UI styling, design systems, audits, optimization, and page-specific design prompts. | https://impeccable.style/ | `skills/impeccable-style.md` |
+| impeccable-style | Frontend design-intelligence skill with 23 commands, live mode, and design-system guidance. | UI styling, design systems, audits, optimization, and page-specific design prompts. | https://github.com/pbakaus/impeccable | `skills/impeccable-style.md` |
 | excalidraw | Open-source virtual whiteboard for hand-drawn style diagrams, wireframes, and flowcharts with real-time collaboration. | Sketching diagrams, collaborative whiteboarding, visual prototyping, quick wireframes. | https://excalidraw.com/ | `skills/excalidraw.md` |
 
 ## 🛠️ Tech toys

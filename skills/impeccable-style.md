@@ -12,10 +12,10 @@ Frontend design-intelligence skill with 23 commands, live mode, and design-syste
 Use for UI styling, design systems, audits, optimization, and page-specific design prompts.
 
 ## Official URL
-https://impeccable.style/
+https://github.com/pbakaus/impeccable
 
 ## Source / repo URL
-Not verified from the public site docs I checked.
+https://github.com/pbakaus/impeccable
 
 ## Trigger phrases
 - styling
@@ -29,6 +29,7 @@ Not verified from the public site docs I checked.
 ## Setup
 - Site docs say to install Impeccable, then run `/impeccable teach` to establish project context.
 - There are docs/tutorials for getting started and live browser iteration.
+- The repo is useful for locating skill bundle paths such as `.github/skills/`, `.claude/skills/`, and `.agents/skills/`.
 
 ## Usage notes
 - The site describes a shared design-intelligence system behind the commands.
@@ -36,7 +37,6 @@ Not verified from the public site docs I checked.
 - Good fit when a generic UI prompt would be too broad.
 
 ## Caveats
-- Source/repo URL not verified here.
 - Some claims are marketing-style, so prefer the docs pages for exact command behavior.
 
 ## Related

@@ -32,6 +32,7 @@ This channel is the single intake point for anything AI-skill-related that Kaush
 - Skill note files: lowercase hyphenated, matching the catalog slug
 - One file per entry, template from `skills/_template.md`
 - Keep README table rows short; details go in the note file
+- If a public git repo exists, record it in the note and usually prefer that URL in the index because it makes install paths and packaged skill locations easier to inspect
 - Commit messages: `[catalog] add <name>` or `[catalog] update <name>`
 - Push to `main` after every intake (no PRs needed for catalog updates)
 
