@@ -77,6 +77,7 @@ _None yet._
 | impeccable-style | Frontend design-intelligence skill with 23 commands, live mode, and design-system guidance. | UI styling, design systems, audits, optimization, and page-specific design prompts. | https://github.com/pbakaus/impeccable | `skills/impeccable-style.md` |
 | excalidraw | Open-source virtual whiteboard for hand-drawn style diagrams, wireframes, and flowcharts with real-time collaboration. | Sketching diagrams, collaborative whiteboarding, visual prototyping, quick wireframes. | https://excalidraw.com/ | `skills/excalidraw.md` |
 | variant | AI design exploration tool that generates endless app/site design options from a prompt. | Early UI/UX ideation, rapid visual exploration, and design inspiration for apps or websites. | https://variant.com/ | `skills/variant.md` |
+| 21st-dev | AI-powered UI builder (Magic Chat) and community library of React/Tailwind components, screens, and themes. | Generating components from descriptions, browsing production-ready UI, design inspiration, color/theme discovery. | https://21st.dev/ | `skills/21st-dev.md` |
 
 ## 🛠️ Tech toys
 
