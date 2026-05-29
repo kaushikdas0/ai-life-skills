@@ -89,6 +89,7 @@ _None yet._
 | here-now | Instant web hosting and file storage for agents; publishes static sites to live URLs and stores private files in Drive. | Publishing websites, prototypes, docs, dashboards, static assets, or agent files that need a URL. | https://here.now/ | `skills/here-now.md` |
 | printing-press | Agent-native CLI factory/library that generates Go CLIs, Claude Code skills, and MCP servers from APIs or websites. | Building custom CLIs, finding reusable community CLIs, or turning an API/website into a token-efficient agent tool. | https://printingpress.dev/ | `skills/printing-press.md` |
 | hyperframes | Open-source HTML-to-video rendering framework by HeyGen, built for AI agent workflows. | Creating video compositions from HTML/CSS, agent-driven video generation, deterministic programmatic rendering, replacing Remotion when Apache 2.0 licensing matters. | https://github.com/heygen-com/hyperframes | `skills/hyperframes.md` |
+| markitdown | Microsoft Python tool for converting files and office documents to Markdown, optimized for LLM pipelines. | Converting PDFs, Word, PowerPoint, Excel, images, audio, HTML, CSV, JSON, XML, ZIPs, EPubs, and YouTube URLs to structured Markdown. | https://github.com/microsoft/markitdown | `skills/markitdown.md` |
 
 ## 🧩 Odd little extras
 
